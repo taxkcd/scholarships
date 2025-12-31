@@ -6,7 +6,7 @@
 
 Noor ul Eman
 Noor ul Eman
-09:44 24 Dec
+09:44 24 De
 Your SOP doesn't have 2 paragraphs, why this professor? Why this uni?
 Noor ul Eman
 Noor ul Eman
