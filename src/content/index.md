@@ -9,6 +9,8 @@ title: Scholarships
 - [Emails](/emails)
 - [LOR](/lors)
 - [LOM](/loms)
+- [Prof Replies](/prof_replies)
+- [Research](/research)
 
 
 1. [The Largest Open Database of University Admission Essays](https://www.openessays.org/?type=PHD&page=3)

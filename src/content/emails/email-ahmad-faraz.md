@@ -1,7 +1,7 @@
 
 
 
-<iframe src="/pdf/EmailTemplate_ahmadfaraz.pdf" width="100%" height="1000px" loading="lazy" style="border: none;"></iframe>
+<iframe src="/pdf_email/EmailTemplate_ahmadfaraz.pdf" width="100%" height="1000px" loading="lazy" style="border: none;"></iframe>
 
 Try to match professor work or Research interests with your subjects or projects or Job experience 
 Show some relevence to stand out of the crowd. 
