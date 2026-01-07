@@ -9,6 +9,7 @@ title: Scholarships
 - [Emails](/emails)
 - [LOR](/lors)
 - [LOM](/loms)
+- [CVs](/cvs)
 - [Prof Replies](/prof_replies)
 - [Research](/research)
 
